@@ -1,0 +1,7 @@
+name: TabName
+version: 1.4
+description: Set players prefix on tablist.
+author: Ula492
+main: com.ula492.tabname.Main
+depend: [Vault]
+softdepend: [GroupManager, PermissionsEx]
